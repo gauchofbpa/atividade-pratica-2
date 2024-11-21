@@ -1,2 +1,2 @@
-# pratica_2
+# atividade-pratica-2
 Atividade prática preparatória do SAEP
